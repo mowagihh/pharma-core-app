@@ -1,0 +1,30 @@
+name: pharma_core
+description: "Pharma Core - The professional standard for drug inventory and price tracking."
+publish_to: 'none'
+version: 4.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  http: ^1.2.2
+  shared_preferences: ^2.3.2
+  google_fonts: ^6.2.1
+  intl: ^0.19.0
+  fl_chart: ^0.69.0
+  mobile_scanner: ^5.2.3
+  shimmer: ^3.0.0
+  flutter_animate: ^4.5.0
+  url_launcher: ^6.3.1
+
+dev_dependencies:
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/
