@@ -1,0 +1,182 @@
+[
+  {
+    "id": "1000",
+    "name": "Augmentin 1g",
+    "arabic": "اوجمنتين",
+    "price": "90.56",
+    "oldprice": "80.45",
+    "company": "GSK",
+    "Date_updated": "1778570757"
+  },
+  {
+    "id": "1001",
+    "name": "Panadol Extra",
+    "arabic": "بنادول اكسترا",
+    "price": "38.51",
+    "oldprice": "38.51",
+    "company": "Hikma",
+    "Date_updated": "1781162757"
+  },
+  {
+    "id": "1002",
+    "name": "Concor 5mg",
+    "arabic": "كونكور",
+    "price": "204.82",
+    "oldprice": "204.82",
+    "company": "Bayer",
+    "Date_updated": "1778484357"
+  },
+  {
+    "id": "1003",
+    "name": "Cataflam 50mg",
+    "arabic": "كاتافلام",
+    "price": "238.06",
+    "oldprice": "270.4",
+    "company": "Hikma",
+    "Date_updated": "1780212357"
+  },
+  {
+    "id": "1004",
+    "name": "Brufen 600",
+    "arabic": "بروفين",
+    "price": "212.73",
+    "oldprice": "212.73",
+    "company": "GSK",
+    "Date_updated": "1779002757"
+  },
+  {
+    "id": "1005",
+    "name": "Lipitor 20mg",
+    "arabic": "ليبيتور",
+    "price": "81.36",
+    "oldprice": "81.36",
+    "company": "Bayer",
+    "Date_updated": "1778916357"
+  },
+  {
+    "id": "1006",
+    "name": "Voltaren 75",
+    "arabic": "فولتارين",
+    "price": "172.68",
+    "oldprice": "200.1",
+    "company": "GSK",
+    "Date_updated": "1780471557"
+  },
+  {
+    "id": "1007",
+    "name": "Amaryl 2mg",
+    "arabic": "اماريل",
+    "price": "32.56",
+    "oldprice": "32.56",
+    "company": "Hikma",
+    "Date_updated": "1782113157"
+  },
+  {
+    "id": "1008",
+    "name": "Ventolin Inhaler",
+    "arabic": "فينتولين",
+    "price": "99.1",
+    "oldprice": "99.1",
+    "company": "Pfizer",
+    "Date_updated": "1780471557"
+  },
+  {
+    "id": "1009",
+    "name": "Nexium 40mg",
+    "arabic": "نكسيم",
+    "price": "21.98",
+    "oldprice": "23.63",
+    "company": "Hikma",
+    "Date_updated": "1777188357"
+  },
+  {
+    "id": "1010",
+    "name": "Zithromax 500",
+    "arabic": "زيثروماكس",
+    "price": "189.44",
+    "oldprice": "189.44",
+    "company": "Pfizer",
+    "Date_updated": "1779521157"
+  },
+  {
+    "id": "1011",
+    "name": "Glucophage 1000",
+    "arabic": "جلوكوفاج",
+    "price": "317.51",
+    "oldprice": "317.51",
+    "company": "Pfizer",
+    "Date_updated": "1779780357"
+  },
+  {
+    "id": "1012",
+    "name": "Plavix 75mg",
+    "arabic": "بلافيكس",
+    "price": "260.06",
+    "oldprice": "237.68",
+    "company": "Amoun",
+    "Date_updated": "1780471557"
+  },
+  {
+    "id": "1013",
+    "name": "Crestor 10mg",
+    "arabic": "كريستور",
+    "price": "306.56",
+    "oldprice": "306.56",
+    "company": "Pharco",
+    "Date_updated": "1777274757"
+  },
+  {
+    "id": "1014",
+    "name": "Klacid 500",
+    "arabic": "كلاسيد",
+    "price": "55.43",
+    "oldprice": "55.43",
+    "company": "Sanofi",
+    "Date_updated": "1779693957"
+  },
+  {
+    "id": "1015",
+    "name": "Tritace 5mg",
+    "arabic": "تريتاس",
+    "price": "75.73",
+    "oldprice": "90.17",
+    "company": "Hikma",
+    "Date_updated": "1778484357"
+  },
+  {
+    "id": "1016",
+    "name": "Adol 500",
+    "arabic": "ادول",
+    "price": "291.13",
+    "oldprice": "291.13",
+    "company": "Bayer",
+    "Date_updated": "1779175557"
+  },
+  {
+    "id": "1017",
+    "name": "Flagyl 500",
+    "arabic": "فلاجيل",
+    "price": "150.32",
+    "oldprice": "150.32",
+    "company": "Bayer",
+    "Date_updated": "1780730757"
+  },
+  {
+    "id": "1018",
+    "name": "Claritine 10",
+    "arabic": "كلاريتين",
+    "price": "265.46",
+    "oldprice": "306.33",
+    "company": "Pharco",
+    "Date_updated": "1778916357"
+  },
+  {
+    "id": "1019",
+    "name": "Telfast 180",
+    "arabic": "تلفاست",
+    "price": "82.95",
+    "oldprice": "82.95",
+    "company": "EIPICO",
+    "Date_updated": "1777447557"
+  }
+]
